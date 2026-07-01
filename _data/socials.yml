@@ -2,9 +2,10 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /cv/ # path to your CV page
-email: brad.woodmaclean@mail.utoronto.ca # your email address
 #inspirehep_id: 1010907 # Inspire HEP author ID
 #rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: O-taHG8AAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+# Note: email and Google Scholar are rendered as part of the custom icon row
+# under the profile photo on the about page (see _pages/about.md), not here,
+# to avoid showing them twice on the same page.

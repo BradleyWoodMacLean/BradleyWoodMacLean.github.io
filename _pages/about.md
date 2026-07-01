@@ -9,11 +9,13 @@ profile:
   image: headshot_2025.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: <a href="mailto:brad.woodmaclean@mail.utoronto.ca">brad.woodmaclean@mail.utoronto.ca</a></p>
-    <p><a href="https://scholar.google.com/citations?user=O-taHG8AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a></p>
-    <p><a href="https://ca.linkedin.com/in/bwoodmaclean" target="_blank" rel="noopener">LinkedIn</a></p>
-    <p>Bluesky: <a href="https://bsky.app/profile/bradwoodmaclean.bsky.social" target="_blank" rel="noopener">@bradwoodmaclean.bsky.social</a></p>
-    <p>X: <a href="https://x.com/BradWoodMacLean" target="_blank" rel="noopener">@BradWoodMacLean</a></p>
+    <div style="font-size: 1.6rem; display: flex; gap: 0.9rem; margin-top: 0.5rem;">
+      <a href="mailto:brad.woodmaclean@mail.utoronto.ca" title="Email"><i class="fa-solid fa-envelope"></i></a>
+      <a href="https://scholar.google.com/citations?user=O-taHG8AAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+      <a href="https://ca.linkedin.com/in/bwoodmaclean" target="_blank" rel="noopener" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://bsky.app/profile/bradwoodmaclean.bsky.social" target="_blank" rel="noopener" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
+      <a href="https://x.com/BradWoodMacLean" target="_blank" rel="noopener" title="X"><i class="fa-brands fa-x-twitter"></i></a>
+    </div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

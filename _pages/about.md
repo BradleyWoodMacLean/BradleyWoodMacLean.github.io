@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: <a href="mailto:brad.woodmaclean@mail.utoronto.ca">brad.woodmaclean@mail.utoronto.ca</a></p>
-    <p>Google Scholar: <a href="https://scholar.google.com/citations?user=O-taHG8AAAAJ&hl=en" target="_blank" rel="noopener">O-taHG8AAAAJ</a></p>
-    <p>LinkedIn: <a href="https://ca.linkedin.com/in/bwoodmaclean" target="_blank" rel="noopener">bwoodmaclean</a></p>
+    <p><a href="https://scholar.google.com/citations?user=O-taHG8AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a></p>
+    <p><a href="https://ca.linkedin.com/in/bwoodmaclean" target="_blank" rel="noopener">LinkedIn</a></p>
     <p>Bluesky: <a href="https://bsky.app/profile/bradwoodmaclean.bsky.social" target="_blank" rel="noopener">@bradwoodmaclean.bsky.social</a></p>
     <p>X: <a href="https://x.com/BradWoodMacLean" target="_blank" rel="noopener">@BradWoodMacLean</a></p>
 

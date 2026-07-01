@@ -2,27 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student, Political Science, University of Toronto
 
 profile:
   align: right
   image: headshot_2025.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Email: <a href="mailto:brad.woodmaclean@mail.utoronto.ca">brad.woodmaclean@mail.utoronto.ca</a></p>
+    <p>Google Scholar: <a href="https://scholar.google.com/citations?user=O-taHG8AAAAJ&hl=en" target="_blank" rel="noopener">O-taHG8AAAAJ</a></p>
+    <p>LinkedIn: <a href="https://ca.linkedin.com/in/bwoodmaclean" target="_blank" rel="noopener">bwoodmaclean</a></p>
+    <p>Bluesky: <a href="https://bsky.app/profile/bradwoodmaclean.bsky.social" target="_blank" rel="noopener">@bradwoodmaclean.bsky.social</a></p>
+    <p>X: <a href="https://x.com/BradWoodMacLean" target="_blank" rel="noopener">@BradWoodMacLean</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---

@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "jekyll-serve",
+      "runtimeExecutable": "bundle",
+      "runtimeArgs": ["exec", "jekyll", "serve", "--host", "127.0.0.1"],
+      "port": 4000
+    },
+    {
+      "name": "jekyll-docker",
+      "runtimeExecutable": "docker",
+      "runtimeArgs": ["compose", "up"],
+      "port": 8080,
+      "autoPort": false
+    }
+  ]
+}

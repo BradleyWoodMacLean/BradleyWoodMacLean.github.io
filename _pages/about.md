@@ -26,9 +26,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am a PhD student in the Department of Political Science at the University of Toronto, where I am also a research fellow at the Policy, Elections, and Representation Lab [(PEARL)](https://pearluoft.com/). My research focuses on Canadian and comparative political behaviour, with particular attention to how economic and geographic context shape political attitudes and choices.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My primary research interest sits at the crossroads of political behaviour and political economy, with a focus on the urban-rural divide. I examine how place-based economic conditions and identities shape voting patterns, partisan attachment, and policy preferences, and how the growing urban-rural gap is reshaping party systems and political coalitions in Canada and other advanced democracies.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+A second strand of my research examines immigration-related political behaviour, including how attitudes toward immigration and immigrants influence vote choice, party competition, and public opinion more broadly, and how these dynamics interact with other social and economic cleavages.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond these areas, I work more broadly on Canadian and comparative political behaviour, including questions of public opinion, elections, and representation. 
+

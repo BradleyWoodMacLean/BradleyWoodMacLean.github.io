@@ -12,6 +12,7 @@ profile:
     <div style="font-size: 1.6rem; display: flex; gap: 0.9rem; margin-top: 0.5rem;">
       <a href="mailto:brad.woodmaclean@mail.utoronto.ca" title="Email"><i class="fa-solid fa-envelope"></i></a>
       <a href="https://scholar.google.com/citations?user=O-taHG8AAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+      <a href="https://orcid.org/0009-0001-2183-6099" target="_blank" rel="noopener" title="ORCID"><i class="ai ai-orcid"></i></a>
       <a href="https://ca.linkedin.com/in/bwoodmaclean" target="_blank" rel="noopener" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
       <a href="https://bsky.app/profile/bradwoodmaclean.bsky.social" target="_blank" rel="noopener" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
       <a href="https://x.com/BradWoodMacLean" target="_blank" rel="noopener" title="X"><i class="fa-brands fa-x-twitter"></i></a>

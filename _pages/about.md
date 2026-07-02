@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Student, Political Science, University of Toronto
 
@@ -30,7 +30,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a PhD student in the Department of Political Science at the University of Toronto, where I am also a research fellow at the Policy, Elections, and Representation Lab [(PEARL)](https://pearluoft.com/) and a Reseaerch Fellow at the Media Ecosystem Observatory [(MEO)][https://meo.ca/]. My research focuses on Canadian and comparative political behaviour, with particular attention to how economic and geographic context shape political attitudes and choices. I am a 2026-2027 R. F. Harney Graduate Fellow in Ethnic, Immigration, and Pluralism Studies. I hold an M.A. in Political Science from the University of British Columbia and a B.A. (Hons.) in Political Science and History from the University of Toronto.
+I am a PhD student in the Department of Political Science at the University of Toronto, where I am also a research fellow at the Policy, Elections, and Representation Lab [(PEARL)](https://pearluoft.com/) and a Research Fellow at the Media Ecosystem Observatory [(MEO)](https://meo.ca/). My research focuses on Canadian and comparative political behaviour, with particular attention to how economic and geographic context shape political attitudes and choices. I am a 2026-2027 R. F. Harney Graduate Fellow in Ethnic, Immigration, and Pluralism Studies. I hold an M.A. in Political Science from the University of British Columbia and a B.A. (Hons.) in Political Science and History from the University of Toronto.
 
 My primary research interest sits at the crossroads of political behaviour and political economy, with a focus on the urban-rural divide. I examine how place-based economic conditions and identities shape voting patterns, partisan attachment, and policy preferences, and how the growing urban-rural gap is reshaping party systems and political coalitions in Canada and other advanced democracies.
 

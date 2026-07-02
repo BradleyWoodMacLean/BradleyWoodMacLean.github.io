@@ -5,7 +5,7 @@ permalink: /
 subtitle: PhD Student, Political Science, University of Toronto
 
 profile:
-  align: center
+  align: right
   image: headshot_2025.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >

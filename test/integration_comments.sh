@@ -11,6 +11,10 @@ cleanup() {
 trap cleanup EXIT
 
 cat >"${tmp_override}" <<'YAML'
+# Reset excludes for this isolated test build: sites may exclude _posts/ (or other
+# demo content) from their real deployment, but this test needs the bundled example
+# posts below to actually build so it can assert on their rendered output.
+exclude: []
 giscus:
   repo: alshedivat/al-folio
   repo_id: R_kgDOExample

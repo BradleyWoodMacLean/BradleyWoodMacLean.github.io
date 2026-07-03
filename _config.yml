@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: headshot_2025.jpeg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: headshot_2025.jpeg # unused: favicon is now served via the static favicon.ico/-16/-32/apple-touch-icon files at the repo root (see _includes/head.liquid override)
 
 url: https://woodmaclean.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root

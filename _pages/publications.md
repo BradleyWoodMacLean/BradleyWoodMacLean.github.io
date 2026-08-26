@@ -13,3 +13,7 @@ nav_order: 2
 ## Reports
 
 - Chan, Esli, **Bradley Wood-MacLean**, Taylor Owen, Mathieu Lavigne. 2026. "Survey on Canadians' Preference for Social Media Age Verification Policies." _Media Ecosystem Observatory_. [Link](https://meo.ca/work/survey-on-canadians-preference-for-social-media-age-verification-policies).
+
+## Media
+
+- **Wood-MacLean, Bradley**, and Semra Sevi. 2026. "Young Canadians aren’t drifting toward conservative and far‑right parties." _The Conversation Canada_.[Link](https://theconversation.com/young-canadians-arent-drifting-toward-conservative-and-far-right-parties-288157).

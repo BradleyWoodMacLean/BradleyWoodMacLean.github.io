@@ -16,4 +16,4 @@ nav_order: 2
 
 ## Media
 
-- **Wood-MacLean, Bradley**, and Semra Sevi. 2026. "Young Canadians aren’t drifting toward conservative and far‑right parties." _The Conversation Canada_.[Link](https://theconversation.com/young-canadians-arent-drifting-toward-conservative-and-far-right-parties-288157).
+- **Wood-MacLean, Bradley**, and Semra Sevi. 2026. "Young Canadians aren’t drifting toward conservative and far‑right parties." _The Conversation Canada_. [Link](https://theconversation.com/young-canadians-arent-drifting-toward-conservative-and-far-right-parties-288157).

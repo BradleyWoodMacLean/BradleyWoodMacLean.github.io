@@ -14,7 +14,7 @@ nav_order: 2
 
 - Chan, Esli, **Bradley Wood-MacLean**, Taylor Owen, Mathieu Lavigne. 2026. "Survey on Canadians' Preference for Social Media Age Verification Policies." _Media Ecosystem Observatory_. [Link](https://meo.ca/work/survey-on-canadians-preference-for-social-media-age-verification-policies).
 
-- Jiang, Diya, Esli Chan, **Bradley Wood-MacLean**, Chris Ross, Eric Merkley, Jérémie Drouin, Saewon Park, Zeynep Pehlivan, Aengus Bridgman. 2026. "An Independent Digital Media Ecosystem? Canada's Online Discourse in the Shadow of the United States" _Centre for Media Technology and Democracy_. [Link](doi.org/10.66536/canadians-preference-age-verification-policies_2026).
+- Jiang, Diya, Esli Chan, **Bradley Wood-MacLean**, Chris Ross, Eric Merkley, Jérémie Drouin, Saewon Park, Zeynep Pehlivan, Aengus Bridgman. 2026. "An Independent Digital Media Ecosystem? Canada's Online Discourse in the Shadow of the United States" _Centre for Media Technology and Democracy_. [Link](https://doi.org/10.66536/independent-digital-media-ecosystem_2026).
 
 ## Media
 

@@ -8,13 +8,13 @@ nav_order: 3
 
 ### Radio Interview: CuriousCast
 
-{% include figure.liquid path="assets/img/featured/radio.png" class="img-fluid z-depth-1 rounded" alt="Radio interview" max-width="400px" %}
+{% include figure.liquid path="assets/img/featured/radio.png" class="img-fluid z-depth-1 rounded" alt="Radio interview" max-width="200px" %}
 
 Radio interview discussing why young Canadians aren't drifting toward conservative and far-right parties, following on my article in _The Conversation_. [Listen on Spotify](https://open.spotify.com/episode/1g4sDYJpML8omiq6p9Ptnt).
 
 ### Radio Interview: Global News Radio CKNW
 
-{% include figure.liquid path="assets/img/featured/cknw-radio.png" class="img-fluid z-depth-1 rounded" alt="Global News Radio CKNW 730 interview" max-width="400px" %}
+{% include figure.liquid path="assets/img/featured/cknw-radio.png" class="img-fluid z-depth-1 rounded" alt="Global News Radio CKNW 730 interview" max-width="200px" %}
 
 Another radio interview on the same topic, this time on Global News Radio CKNW 730 (Vancouver). [Listen on Spotify](https://open.spotify.com/show/7KGHqwxfwYatAIJ1i3MwiF).
 

@@ -12,11 +12,11 @@ nav_order: 2
 
 ## Reports
 
-- Ross, Chris, Ben Steel, David Hobson, Saewon Park, Esli Chan, **Bradley Wood-MacLean**, Mika Desblancs-Patel, Aengus Bridgman. 2026. “Alberta’s Referendum, Online: Influencers, AI Content, Foreign Interest, and the Attention Economy Ahead of the October 19 Vote.” _Centre for Media Technology and Democracy_. [Link](https://mediatechdemocracy.com/en/publications/ab-referendum-online_2026/).
+- Ross, Chris, Ben Steel, David Hobson, Saewon Park, Esli Chan, **Bradley Wood-MacLean**, Mika Desblancs-Patel, and Aengus Bridgman. 2026. “Alberta’s Referendum, Online: Influencers, AI Content, Foreign Interest, and the Attention Economy Ahead of the October 19 Vote.” _Centre for Media Technology and Democracy_. [Link](https://mediatechdemocracy.com/en/publications/ab-referendum-online_2026/).
 
-- Jiang, Diya, Esli Chan, **Bradley Wood-MacLean**, Chris Ross, Eric Merkley, Jérémie Drouin, Saewon Park, Zeynep Pehlivan, Aengus Bridgman. 2026. "An Independent Digital Media Ecosystem? Canada's Online Discourse in the Shadow of the United States" _Centre for Media Technology and Democracy_. [Link](https://doi.org/10.66536/independent-digital-media-ecosystem_2026).
+- Jiang, Diya, Esli Chan, **Bradley Wood-MacLean**, Chris Ross, Eric Merkley, Jérémie Drouin, Saewon Park, Zeynep Pehlivan, and Aengus Bridgman. 2026. "An Independent Digital Media Ecosystem? Canada's Online Discourse in the Shadow of the United States" _Centre for Media Technology and Democracy_. [Link](https://doi.org/10.66536/independent-digital-media-ecosystem_2026).
 
-- Chan, Esli, **Bradley Wood-MacLean**, Taylor Owen, Mathieu Lavigne. 2026. "Survey on Canadians' Preference for Social Media Age Verification Policies." _Media Ecosystem Observatory_. [Link](https://meo.ca/work/survey-on-canadians-preference-for-social-media-age-verification-policies).
+- Chan, Esli, **Bradley Wood-MacLean**, Taylor Owen, and Mathieu Lavigne. 2026. "Survey on Canadians' Preference for Social Media Age Verification Policies." _Media Ecosystem Observatory_. [Link](https://meo.ca/work/survey-on-canadians-preference-for-social-media-age-verification-policies).
 
 ## Media
 

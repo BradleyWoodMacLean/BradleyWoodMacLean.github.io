@@ -12,7 +12,7 @@ nav_order: 2
 
 ## Working Papers
 
-- Wood-MacLean, Bradley. "Public Resource Provision and the Objective Correlates of Place-Based Affective Polarization in Canada." _SSRN_. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7446878).
+- **Wood-MacLean, Bradley**. "Public Resource Provision and the Objective Correlates of Place-Based Affective Polarization in Canada." _SSRN_. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7446878).
 
 ## Reports
 

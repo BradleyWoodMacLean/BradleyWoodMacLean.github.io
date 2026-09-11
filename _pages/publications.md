@@ -10,6 +10,10 @@ nav_order: 2
 
 - Borwein, Sophie, Jack Lucas, and **Bradley Wood-MacLean**. 2026. "Place Consciousness and Voting in Canada." _Canadian Journal of Political Science_: 1-14. [Link](https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/place-consciousness-and-voting-in-canada/D14C4A58ACD7A6BB829EE86DBE9D694B).
 
+## Working Papers
+
+- Wood-MacLean, Bradley. "Public Resource Provision and the Objective Correlates of Place-Based Affective Polarization in Canada." _SSRN_. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7446878).
+
 ## Reports
 
 - Ross, Chris, Ben Steel, David Hobson, Saewon Park, Esli Chan, **Bradley Wood-MacLean**, Mika Desblancs-Patel, and Aengus Bridgman. 2026. “Alberta’s Referendum, Online: Influencers, AI Content, Foreign Interest, and the Attention Economy Ahead of the October 19 Vote.” _Centre for Media Technology and Democracy_. [Link](https://mediatechdemocracy.com/en/publications/ab-referendum-online_2026/).

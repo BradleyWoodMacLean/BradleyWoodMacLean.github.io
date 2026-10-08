@@ -16,6 +16,8 @@ nav_order: 2
 
 ## Reports
 
+- Ross, Chris, Ben Steel, David Hobson, Saewon Park, Esli Chan, **Bradley Wood-MacLean**, Mika Desblancs-Patel, Samuel Goertz, Danielle Bohonos, Aengus Bridgman. 2026. “Alberta’s Referendum, Online: Election Fraud Claims Ahead of the October 19 Vote.” _Centre for Media Technology and Democracy_. [Link](https://mediatechdemocracy.com/en/publications/ab-referendum-fraud-claims_2026/).
+
 - Ross, Chris, Ben Steel, David Hobson, Saewon Park, Esli Chan, **Bradley Wood-MacLean**, Mika Desblancs-Patel, and Aengus Bridgman. 2026. “Alberta’s Referendum, Online: Influencers, AI Content, Foreign Interest, and the Attention Economy Ahead of the October 19 Vote.” _Centre for Media Technology and Democracy_. [Link](https://mediatechdemocracy.com/en/publications/ab-referendum-online_2026/).
 
 - Jiang, Diya, Esli Chan, **Bradley Wood-MacLean**, Chris Ross, Eric Merkley, Jérémie Drouin, Saewon Park, Zeynep Pehlivan, and Aengus Bridgman. 2026. "An Independent Digital Media Ecosystem? Canada's Online Discourse in the Shadow of the United States" _Centre for Media Technology and Democracy_. [Link](https://doi.org/10.66536/independent-digital-media-ecosystem_2026).
